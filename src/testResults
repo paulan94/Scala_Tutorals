@@ -1,0 +1,15 @@
+[IJ]> test
+[info] Compiling 1 Scala source to /Users/paul/Downloads/example/target/scala-2.11/classes...
+[info] ListsSuite:
+[info] - one plus one is two
+[info] - one plus one is two?
+[info] - details why one plus one is not three
+[info] - intNotZero throws an exception if its argument is 0
+[info] - sum of a few numbers
+[info] - max of a few numbers
+[info] Run completed in 184 milliseconds.
+[info] Total number of tests run: 6
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[success] Total time: 1 s, completed Jul 15, 2019 1:32:43 PM
